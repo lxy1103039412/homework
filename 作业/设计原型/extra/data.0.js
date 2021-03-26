@@ -1,1 +1,0 @@
-window["hzv3"]["pid"] = {"user":null,"locale":"zh-CN","preference":null,"projectAccessToken":"3bc926e40ded51b4c3220aa7e3c619efa60b4522","projectEncryptedPassword":"","isPasswordRequired":false};
